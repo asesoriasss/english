@@ -1,0 +1,136 @@
+ítulo del proyecto: Eccommitted 🌍
+Institución: Institución Educativa Camilo Torres
+
+Crea una página web moderna, ecológica, educativa y visualmente atractiva llamada Eccommitted, enfocada en promover el cuidado del medio ambiente entre los estudiantes, docentes y comunidad de la Institución Educativa Camilo Torres.
+
+🧩 Estructura general del sitio
+
+La página debe tener una navegación clara con cinco secciones principales accesibles desde un menú superior:
+
+1. 🏠 Inicio (Home)
+
+Presenta un carrusel automático de 10 diapositivas tipo “¿Sabías que…?”
+Ejemplos de texto:
+
+“¿Sabías que reciclando una botella de plástico ahorras energía suficiente para encender una bombilla durante 3 horas?”
+
+“¿Sabías que plantar un árbol puede absorber hasta 20 kg de CO₂ al año?”
+
+“¿Sabías que el 80% de la basura del océano proviene de la tierra?”
+
+“¿Sabías que puedes reducir tu huella ecológica usando transporte compartido?”
+
+“¿Sabías que apagar una luz innecesaria ayuda más de lo que imaginas?”
+
+“¿Sabías que reciclando papel ayudas a salvar miles de árboles al año?”
+
+“¿Sabías que usar bolsas reutilizables evita toneladas de plástico?”
+
+“¿Sabías que el agua es un recurso limitado, y cada gota cuenta?”
+
+“¿Sabías que la energía solar puede abastecer una escuela entera?”
+
+“¿Sabías que cada pequeño cambio cuenta? ¡Únete al cambio!”
+
+Todas las diapositivas deben cerrar con el lema: “¡Únete al cambio!”
+
+Debajo del carrusel, muestra un pequeño texto institucional:
+“En la Institución Educativa Camilo Torres, cuidamos el planeta con acción y compromiso. Eccommitted: aprendemos, compartimos y transformamos.”
+
+Agrega un botón que lleve a la sección de consejos: “Empieza tu cambio 🌱”.
+
+2. 💡 Consejos y Tips Ambientales
+
+Muestra una lista interactiva con recomendaciones diarias para cuidar el planeta.
+
+Cada consejo debe tener un ícono representativo y un efecto hover con fondo verde claro o animación suave.
+
+Ejemplos de tips:
+
+Apaga las luces cuando no las necesites.
+
+Usa botellas reutilizables.
+
+Separa los residuos correctamente.
+
+Reduce el consumo de papel.
+
+Siembra un árbol.
+
+No desperdicies agua.
+
+Prefiere caminar o usar bicicleta.
+
+Reutiliza materiales para crear cosas nuevas.
+
+Habla con tus amigos sobre cómo cuidar el ambiente.
+
+Cada acción cuenta.
+
+3. 🏗️ PRAE (en construcción)
+
+Crea una sección con el título: “Proyecto Ambiental Escolar – PRAE”.
+
+Incluye el mensaje:
+“Esta sección está en construcción. Muy pronto podrás unirte a la 5.ª Jornada de Reciclaje Camilo Torres. ¡Sigue atento y únete al cambio!”
+
+Añade una animación o ícono de “construcción” con estilo amigable (por ejemplo, un engranaje o planta creciendo).
+
+4. 🌿 Acciones y Campañas
+
+Presenta una galería o cuadrícula con ejemplos de acciones ecológicas realizadas por los estudiantes y docentes.
+Ejemplos:
+
+Jornadas de reforestación.
+
+Campañas de reciclaje.
+
+Ferias ambientales.
+
+Puntos ecológicos en la institución.
+
+Debajo de las imágenes, incluye un botón interactivo que diga:
+“Quiero participar 💪”, que abra un formulario simple de registro (nombre, curso, idea o aporte).
+
+5. 🧠 Nosotros (About)
+
+Escribe una breve descripción institucional:
+“Eccommitted es un proyecto de la Institución Educativa Camilo Torres que busca inspirar acciones concretas para proteger el medio ambiente. A través del aprendizaje, la colaboración y la conciencia ecológica, los estudiantes son protagonistas del cambio.”
+
+Añade una pequeña galería o imagen representativa del colegio o de los estudiantes participando.
+
+🌈 Diseño y estilo visual
+
+Colores principales: tonos verdes (#2ecc71, #27ae60), blanco y detalles en azul claro.
+
+Tipografía moderna y legible (por ejemplo: Poppins o Montserrat).
+
+Bordes redondeados, iconografía limpia, sombras suaves y estilo minimalista.
+
+Animaciones suaves con Framer Motion (por ejemplo, en botones o entrada de texto).
+
+Modo oscuro y claro con interruptor en la parte superior derecha.
+
+Íconos ecológicos (usar Lucide React o Font Awesome).
+
+⚙️ Requisitos funcionales
+
+El sitio debe ser responsivo (adaptarse a móvil, tableta y PC).
+
+El carrusel del inicio debe moverse automáticamente, pero también con flechas manuales.
+
+Todas las secciones deben estar conectadas desde el menú.
+
+No requiere base de datos ni login (contenido estático).
+
+El código debe ser limpio y legible, preferiblemente en React + Tailwind CSS.
+
+💬 Pie de página (Footer)
+
+Incluye el texto:
+“© 2025 Eccommitted – Institución Educativa Camilo Torres | Todos los derechos reservados.”
+
+Añade íconos de redes sociales o enlaces ficticios (Facebook, Instagram, correo institucional).
+
+Objetivo final:
+Crear una página juvenil, inspiradora y educativa que refleje el compromiso ambiental del colegio. Debe ser atractiva, ligera y fácil de navegar, diseñada para motivar el cambio ecológico dentro y fuera de la institución.
