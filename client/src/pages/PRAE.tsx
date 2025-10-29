@@ -34,6 +34,9 @@ export default function PRAE() {
           <p className="text-xl md:text-2xl font-semibold text-primary mb-2">
             ¡La Camilo Torres se pinta de verde!
           </p>
+          <p className="text-sm text-muted-foreground italic">
+            Camilo Torres goes green!
+          </p>
           <p className="text-lg text-muted-foreground max-w-3xl mx-auto mb-4">
             Desde octubre de 2024, la Institución Educativa Camilo Torres ha venido 
             fortaleciendo su compromiso ambiental a través del proyecto Eco Camilo, 
@@ -62,6 +65,9 @@ export default function PRAE() {
                 <h2 className="text-2xl md:text-3xl font-bold text-foreground mb-4">
                   🌿 Convocatoria a la V Jornada de Reciclaje y Limpieza Institucional
                 </h2>
+                <p className="text-sm text-muted-foreground italic mb-3">
+                  Call for the 5th Recycling and Institutional Cleaning Day
+                </p>
                 <div className="space-y-4 text-muted-foreground">
                   <p>
                     Con el entusiasmo que caracteriza a nuestra comunidad educativa, 
@@ -115,6 +121,9 @@ export default function PRAE() {
                 <h3 className="text-xl font-bold mb-2">
                   ♻️ Jornadas de Reciclaje: ¡Kilos que salvan al planeta!
                 </h3>
+                <p className="text-sm text-muted-foreground italic mb-2">
+                  Recycling Days: Kilos that save the planet!
+                </p>
                 <p className="text-muted-foreground mb-4">
                   Desde octubre de 2024, el colegio ha desarrollado cuatro exitosas jornadas 
                   de reciclaje, recolectando{" "}
@@ -188,6 +197,9 @@ export default function PRAE() {
                   <h3 className="text-xl font-bold mb-2">
                     🌼 Jornadas de Siembra y Embellecimiento
                   </h3>
+                  <p className="text-sm text-muted-foreground italic mb-2">
+                    Planting and Beautification Days
+                  </p>
                   <p className="text-muted-foreground mb-3">
                     En octubre de 2024, la comunidad educativa se unió en una gran jornada 
                     de siembra y embellecimiento de jardines institucionales.
@@ -220,6 +232,9 @@ export default function PRAE() {
                   <h3 className="text-xl font-bold mb-2">
                     💚 Botellas de Amor
                   </h3>
+                  <p className="text-sm text-muted-foreground italic mb-2">
+                    Bottles of Love
+                  </p>
                   <p className="text-muted-foreground mb-3">
                     Desde 2024, nos sumamos a la campaña Botellas de Amor, recolectando 
                     plásticos flexibles dentro de botellas PET para transformarlos en 
@@ -252,6 +267,9 @@ export default function PRAE() {
                   <h3 className="text-xl font-bold mb-2">
                     👕 Bazar de Ropa Usada
                   </h3>
+                  <p className="text-sm text-muted-foreground italic mb-2">
+                    Second-hand Clothing Bazaar
+                  </p>
                   <p className="text-muted-foreground mb-3">
                     El 11 de julio de 2025 se realizó el primer bazar de ropa usada, 
                     una iniciativa que promueve la reutilización de prendas en buen estado.
@@ -314,6 +332,9 @@ export default function PRAE() {
             <h3 className="text-2xl md:text-3xl font-bold text-foreground mb-4">
               🌍 Un compromiso que crece
             </h3>
+            <p className="text-sm text-muted-foreground italic mb-3">
+              A growing commitment
+            </p>
             <p className="text-lg text-muted-foreground max-w-3xl mx-auto mb-4">
               La Institución Educativa Camilo Torres reafirma su compromiso con la 
               formación de una comunidad educativa que actúe de manera responsable 
